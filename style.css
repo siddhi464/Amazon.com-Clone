@@ -1,0 +1,106 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+#navbar{
+    height: 60px;
+    background-color: #851b1b;
+}
+.heading{
+    color : rgb(73, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 900;
+    text-transform: uppercase;
+    
+    /*h1, h2, h3{
+        color: red}
+        */
+
+}
+a{
+    margin-right: 200px;
+    margin-top: 10px;
+}
+body{
+    background-color: darksalmon;
+
+}
+p{
+    color :rgb(151, 0, 30);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+    background-color: lightpink;
+    color: rgb(161, 16, 0);
+    text-align: center;
+}
+
+h2{
+    background-color: #851b1b;
+}
+
+#box{
+    background-color: rgb(131, 7, 13);
+    color: antiquewhite;
+}
+#inner{
+    font-size: 10px;
+    color: #851b1b;
+}
+#outer{
+    font-size: 25px;
+    color: rgb(161, 16, 0);
+}
+
+
+/*
+    If put everywhere latest - inline will be prevalent.
+    next the style tag 
+    last the stylesheet!
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
